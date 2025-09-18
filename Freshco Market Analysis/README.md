@@ -85,7 +85,6 @@ These fields enable analysis of customer acquisition, lifetime value, order comp
 Here are some of the visual outputs from the analysis:  
 
 1️⃣ **Completion Rate - Day and slot wise**
-<img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/8a7e4aa6-7e50-4f21-81e2-5d591d129094" />
 2️⃣ **Customer Lifetime Value Analysis**  
 3️⃣ **Delivery Time - Weekday vs Weekends**  
 4️⃣ **Monthwise Orders**  
