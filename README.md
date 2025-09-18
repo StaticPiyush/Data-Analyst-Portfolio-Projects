@@ -39,7 +39,8 @@ Each project demonstrates my ability to:
 - [Portfolio Projects](#portfolio-projects)  
   - [Freshco Hypermarket Analytics](#1-freshco-hypermarket-analytics)  
   - [ShopNext Store Analytics](#2-shopnext-store-analytics)  
-  - [Python HR & Employee Analytics](#3-python-hr--employee-analytics)   
+  - [Python HR & Employee Analytics](#3-python-hr--employee-analytics)
+- [Closing Note](#closing-note)
 
 ---
 
