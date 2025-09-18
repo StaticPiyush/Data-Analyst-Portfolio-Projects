@@ -1,4 +1,4 @@
-<img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/8a7e4aa6-7e50-4f21-81e2-5d591d129094" /># Freshco Hypermarket Capstone Project  
+# Freshco Hypermarket Capstone Project  
 
 This repository contains my **capstone project** on **retail transaction and delivery analytics** for *Freshco Hypermarket*, a supermarket chain located in HSR, Bangalore. The project simulates real-world business challenges by analyzing transaction-level data from a home delivery service started in 2021.  
 
@@ -84,7 +84,8 @@ These fields enable analysis of customer acquisition, lifetime value, order comp
 
 Here are some of the visual outputs from the analysis:  
 
-1️⃣ **Completion Rate - Day and slot wise**  
+1️⃣ **Completion Rate - Day and slot wise**
+<img width="733" height="340" alt="image" src="https://github.com/user-attachments/assets/8a7e4aa6-7e50-4f21-81e2-5d591d129094" />
 2️⃣ **Customer Lifetime Value Analysis**  
 3️⃣ **Delivery Time - Weekday vs Weekends**  
 4️⃣ **Monthwise Orders**  
